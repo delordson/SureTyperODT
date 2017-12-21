@@ -1,2 +1,2 @@
 # SureTyperODT
-Upload of SueTyper data into Excel format ODT report.
+Upload of SureTyper data into Excel format ODT report.
